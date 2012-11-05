@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:cats="http://example.org/it-cat.rdfs#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:c="http://example.org/Company.rdfs#"
+    xml:base="http://example.org/Company.rdfs#">
+
+  <c:Company rdf:ID="Prueba1">
+
+    <c:hasPostDetails>
+      <c:PostDetails>
+        <c:endDate>2012-08-31</c:endDate>
+        <c:startDate>2012-07-01</c:startDate>
+      </c:PostDetails>
+    </c:hasPostDetails>
+
+    <c:hasCat>
+      <cats:Audio_sonido_y_tiendas_de_sonido>
+      </cats:Audio_sonido_y_tiendas_de_sonido>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Antenas_parabólicas>
+      </cats:Antenas_parabólicas>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Wifi>
+      </cats:Wifi>
+    </c:hasCat>
+
+  </c:Company>
+
+
+
+
+  <c:Company rdf:ID="Prueba2">
+
+    <c:hasPostDetails>
+      <c:PostDetails>
+        <c:endDate>2012-08-31</c:endDate>
+        <c:startDate>2012-07-01</c:startDate>
+      </c:PostDetails>
+    </c:hasPostDetails>
+
+    <c:hasCat>
+      <cats:Radio>
+      </cats:Radio>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Voip>
+      </cats:Voip>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Cables_estructurados>
+      </cats:Cables_estructurados>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Web>
+      </cats:Web>
+    </c:hasCat>
+
+  </c:Company>
+
+
+  <c:Company rdf:ID="Prueba3">
+
+    <c:hasPostDetails>
+      <c:PostDetails>
+        <c:endDate>2012-08-31</c:endDate>
+        <c:startDate>2012-07-01</c:startDate>
+      </c:PostDetails>
+    </c:hasPostDetails>
+
+    <c:hasCat>
+      <cats:Centrales_telefónicas>
+      </cats:Centrales_telefónicas>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Cableados>
+      </cats:Cableados>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Wifi>
+      </cats:Wifi>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Web>
+      </cats:Web>
+    </c:hasCat>
+
+  </c:Company>
+
+  <c:Company rdf:ID="Prueba4">
+
+    <c:hasPostDetails>
+      <c:PostDetails>
+        <c:endDate>2012-08-31</c:endDate>
+        <c:startDate>2012-07-01</c:startDate>
+      </c:PostDetails>
+    </c:hasPostDetails>
+
+    <c:hasCat>
+      <cats:Ingeniería_en_telecomunicaciones>
+      </cats:Ingeniería_en_telecomunicaciones>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Comunicaciones>
+      </cats:Comunicaciones>
+    </c:hasCat>
+
+    <c:hasCat>
+      <cats:Multimedia>
+      </cats:Multimedia>
+    </c:hasCat>
+
+  </c:Company>
+</rdf:RDF>

@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:cr="http://example.org/CategoriesRequired.rdfs#"
+    xmlns:categories="http://kmm.lboro.ac.uk/ecos/1.0#"
+    xml:base="http://example.org/CategoriesRequired.rdfs#">
+
+  <cr:CategoriesRequired rdf:ID="CR">
+
+    <cr:hasDetails>
+      <cr:Details>
+        <cr:endDate>2012-08-31</cr:endDate>
+        <cr:startDate>2012-07-01</cr:startDate>
+      </cr:Details>
+    </cr:hasDetails>
+
+    <cr:hasCategorieDetails>
+      <cr:CategorieDetails>
+
+        <cr:requiredCompetence>
+          <categories:Wifi>   
+          </categories:Wifi>
+        </cr:requiredCompetence>
+        
+        <cr:requiredCompetence>
+          <categories:Web>
+          </categories:Web>
+        </cr:requiredCompetence>
+
+      </cr:CategorieDetails>
+    </cr:hasCategorieDetails>
+
+  </cr:CategoriesRequired>
+</rdf:RDF>

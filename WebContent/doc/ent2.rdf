@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/3s-servicios-informaticos_1426748.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Alcoll, 29 08440 Cardedeu (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>3S SERVICIOS INFORMATICOS</ecos:name>
+            <ecos:uri>http://www.3ssi.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Reparacion de ordenadores a domicilio, Web, Software, Servicios informaticos en el Valles, cardedeu, granollers, mataro, barcelona, Valles Oriental, Valles Occidental</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+
+    
+        <ecos:Skill>
+    
+            <ecos:Páginas_Web></ecos:Páginas_Web>
+
+        </ecos:Skill>
+        <ecos:Skill>
+
+            <ecos:Wifi></ecos:Wifi>
+
+        </ecos:Skill>
+        <ecos:Skill>
+
+            <ecos:Servicios_de_telecomunicaciones></ecos:Servicios_de_telecomunicaciones>
+
+        </ecos:Skill>
+        <ecos:Skill>
+
+            <ecos:Articulos_de_telefonía></ecos:Articulos_de_telefonía>
+
+        </ecos:Skill>
+        <ecos:Skill>
+
+            <ecos:Comunicaciones></ecos:Comunicaciones>
+
+        </ecos:Skill>
+
+
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>C/ Alcoll, 29 08440 Cardedeu (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>3S SERVICIOS INFORMATICOS</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1426748_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>3S SERVICIOS INFORMATICOS</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>610701099</rdf:value>
+            <rdf:value>938469978</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.3ssi.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>

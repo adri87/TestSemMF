@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xml:base="http://kmm.lboro.ac.uk/ecos/1.0#">
+
+  <rdfs:Class rdf:ID="Adul">
+    <rdfs:subClassOf>
+      <rdfs:Class rdf:ID="Telecomunicaciones"/>
+    </rdfs:subClassOf>
+  </rdfs:Class>
+  
+   <rdfs:Class rdf:ID="Antenas_parabólicas">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+    <rdfs:Class rdf:ID="Audio_sonido_y_tiendas_de_sonido">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Cables_estructurados">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Chive_café">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Fibra_óptica">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Ingeniero_de_telecomunicaciones">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Instalaciones_de_red_de_voz_y_datos">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Locutorio_con_internet">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Páginas_Web">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Radio">
+	  <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Redes_datos">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Servicios_de_telecomunicaciones">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Voip">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Wifi">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Teléfonos_móviles">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Antenas_colectivas">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Articulos_de_telefonía">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Cableados">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Centrales_telefónicas">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Comunicaciones">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Ingeniería_en_telecomunicaciones">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Instalación_tdt">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Internet">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Multimedia">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Parabólica">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Redes">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Redes_informáticas">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Telefonía_IP">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Televisión_digital_terrestre">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class>
+  
+  <rdfs:Class rdf:ID="Web">
+    <rdfs:subClassOf rdf:resource="#Telecomunicaciones"/>
+  </rdfs:Class> 
+  
+  <rdfs:Class rdf:about="#Telecomunicaciones">
+    <rdfs:subClassOf>
+      <rdfs:Class rdf:ID="IT_Cats"/>
+    </rdfs:subClassOf>
+  </rdfs:Class>
+  
+ </rdf:RDF>
+  

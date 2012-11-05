@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:v="http://www.w3.org/2006/vcard/ns#">
+  <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/3s-servicios-informaticos_1426748.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>C/ Alcoll, 29 08440 Cardedeu (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>3S SERVICIOS INFORMATICOS</ecos:name>
+            <ecos:uri>http://www.3ssi.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Reparacion de ordenadores a domicilio, Web, Software, Servicios informaticos en el Valles, cardedeu, granollers, mataro, barcelona, Valles Oriental, Valles Occidental</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica telefónica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cableados estructurados</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Comunicaciones</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de programa a medida</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Dominios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Empresas de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Hardware</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Informática y ofimática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Instalación de equipos informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Internet</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Introducción a informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Material informático</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Páginas Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Portátiles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Programación informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes voz</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Reparación ordenadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio técnico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio técnico telecomunicación</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios a domicilio</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sistemas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Telefonía IP</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Voip</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Wifi</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Wireless</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>C/ Alcoll, 29 08440 Cardedeu (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>3S SERVICIOS INFORMATICOS</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1426748_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>3S SERVICIOS INFORMATICOS</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>610701099</rdf:value>
+            <rdf:value>938469978</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.3ssi.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://www.vulka.es/empresa/3000-informatica_24868.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Manresa, 2 - Entlo. 30004 MURCIA (Murcia)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>3000 INFORMÁTICA</ecos:name>
+            <ecos:uri>http://www.3000info.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software tecnico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Componente electronico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software para comercial</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Telecomunicaciones</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Instalacion telefonica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software economico financiero</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Gestion de empresa</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Conmutador electrico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Elemento de conmutacion</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio informatico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software para oficina</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software para ingenieria</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios de seguridad informatica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Proyectores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Ingenieria informatica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Academias de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Adul</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Alquiler de equipos informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Centros de enseñanza y academias</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Comunicaciones</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cursos trabajadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Desarrollo de programa a medida</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Disco duro</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Empresas de servicios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Enseñanza y formación</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos de video</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Formación continua</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Hardware</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Ingeniería informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Ingenieros</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Instalación de equipos informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Internet</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Mantenimiento de equipos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Ordenadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Periféricos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Portátiles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Programación informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Proyectores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes informáticas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Reparación ordenadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio técnico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sistemas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Talleres</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>TPV</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>Manresa, 2 - Entlo. 30004 MURCIA (Murcia)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>3000 INFORMÁTICA</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>3000 INFORMÁTICA</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>968 211 440</rdf:value>
+            <rdf:value>968 211 653</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.3000info.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+ <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/31416k-taller-creativo_1438583.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Padre Luis Navarro, 7-3 46011 valencia (Valencia)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>31416k.Taller Creativo</ecos:name>
+            <ecos:uri>http://www.31416k.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+        <ecos:summary>Somos un estudio de diseño capaz de proyectar, coordinar y transmitir visualmente la comunicación gráfica que su empresa necesita para adaptarla a la nueva situación del mercado. Infórmese</ecos:summary>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Catalogos de muebles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño catalogos y folletos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>31416k</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño valencia</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño gráfico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Catalogo de productos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño paginas web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Catalogos de dormitorios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Agencias de publicidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Bellas artes</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cartelería</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Carteles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Consultorías de marketing</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Dícticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño folletos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño grafico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Diseño Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Dominios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Etiquetas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Flyers</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Folletos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Fotógrafos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Impresión gráfica e impresión digital</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Infografía</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Interiorista</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Logotipos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Multimedia</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Páginas Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Publicaciones</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Publicidad</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Rótulos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios empresariales</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Tarjetas de visita</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Vallas publicitarias</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Web</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>Padre Luis Navarro, 7-3 46011 valencia (Valencia)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>31416k.Taller Creativo</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/1438583_logo-img.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>31416k.Taller Creativo</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>677424995</rdf:value>
+            <rdf:value>963675779</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.31416k.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://www.vulka.es/empresa/abre-internet-locutorio_6661.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Carrer d´Aribau, 308 08006 BARCELONA (Barcelona)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ABRE INTERNET LOCUTORIO</ecos:name>
+            <ecos:uri>http://www.abrebarcelona.com</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cafe</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Establecimientos comerciales</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Mensajeria electronica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Agencia de envio de dinero</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Establecimiento de consulta a internet</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Chive café</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Empresas de servicios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Internet</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Locutorio con Internet</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>Carrer d´Aribau, 308 08006 BARCELONA (Barcelona)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ABRE INTERNET LOCUTORIO</v:fn>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ABRE INTERNET LOCUTORIO</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>932 008 435</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.abrebarcelona.com</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+ <ecos:Enterprise rdf:about="http://www.vulka.es/empresa/abyss-computer-s-l_7260.html">
+    <ecos:General>
+      <rdf:Description>
+        <ecos:Address>
+          <rdf:Description>
+            <v:VCard>
+              <rdf:Description>
+                <v:adr>
+                  <rdf:Description>
+                    <v:street-address>Calle Cavanilles, 49 28007 MADRID (Madrid)</v:street-address>
+                  </rdf:Description>
+                </v:adr>
+              </rdf:Description>
+            </v:VCard>
+          </rdf:Description>
+        </ecos:Address>
+        <ecos:CompanyName>
+          <rdf:Description>
+            <ecos:name>ABYSS COMPUTER S.L.</ecos:name>
+            <ecos:uri>http://www.abyss.es</ecos:uri>
+          </rdf:Description>
+        </ecos:CompanyName>
+      </rdf:Description>
+    </ecos:General>
+    <ecos:Specific>
+      <rdf:Description>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Tarjeta informatica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio informatico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Disco magneto optico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Autobus y autocar</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Fuente de alimentacion informatica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Material de audio</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Accesorio para ordenador</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sistema de seguridad</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Callejeros</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia tecnica informatica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Aparato electronico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Mobiliario para despacho</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipo de sonido</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Juegos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Disco compacto de musica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Accesorios de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Accesorios y consumibles para informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Altavoces</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Artículos de telefonía</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Asistencia técnica informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Audio, sonido y tiendas de sonido</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cámaras digitales</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Cámaras seguridad</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Consumibles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Consumibles informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Disco duro</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Dvd</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Electrónica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Empresas de servicios</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos de video</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Equipos informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Fotografía digital</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Hardware</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Mantenimiento de equipos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Máquina recreativa</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Maquinaria para electrónica</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Máquinas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Máquinas recreativas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Material de vigilancia</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Mesas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Microprocesador</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Monitores LCD</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Muebles de oficina</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Ordenadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Periféricos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Portátiles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Proyectores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Redes informáticas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Reparación ordenadores</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicio técnico</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Servicios informáticos</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sillas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sillas de oficina</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Sillas oficina</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Software</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Talleres</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Tarjetas gráficas</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Telefonía IP</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Teléfonos móviles</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Televisión</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Televisión digital terrestre</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Tiendas de informática</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+        <ecos:Skill>
+          <rdf:Description>
+            <ecos:detail>Wifi</ecos:detail>
+          </rdf:Description>
+        </ecos:Skill>
+      </rdf:Description>
+    </ecos:Specific>
+    <v:VCard>
+      <rdf:Description>
+        <v:adr>
+          <rdf:Description>
+            <v:street-address>Calle Cavanilles, 49 28007 MADRID (Madrid)</v:street-address>
+          </rdf:Description>
+        </v:adr>
+        <v:fn>ABYSS COMPUTER S.L.</v:fn>
+        <v:logo>http://www.vulka.es/imagenes/empresas_logos/7260.jpg</v:logo>
+        <v:org>
+          <rdf:Description>
+            <v:organisation-name>ABYSS COMPUTER S.L.</v:organisation-name>
+          </rdf:Description>
+        </v:org>
+        <v:tel>
+          <rdf:Description>
+            <rdf:value>902 118 684</rdf:value>
+            <rdf:value>915 529 297</rdf:value>
+          </rdf:Description>
+        </v:tel>
+        <v:url>http://www.abyss.es</v:url>
+      </rdf:Description>
+    </v:VCard>
+  </ecos:Enterprise>
+</rdf:RDF>
